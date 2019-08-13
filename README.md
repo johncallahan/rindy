@@ -2,7 +2,11 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A ruby wrapper for [indy-sdk](https://github.com/hyperledger/indy-sdk).
+A [ruby gem](https://rubygems.org/gems/rindy) for [indy-sdk](https://github.com/hyperledger/indy-sdk).
+
+## Migration notice
+
+This project has been moved to [aries-sdk-ruby](https://github.com/hyperledger/aries-sdk-ruby).
 
 ## Installation
 
